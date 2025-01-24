@@ -161,7 +161,7 @@ _Ahmad Sahar_ is a trainer, presenter, and consultant at Tomafuwi Productions, s
   <summary><h2>Errata</h2></summary>
 <ul>
 
-  <li>There is a typo in Chapter 4, **Range Operators and Loops**, under the topic **The repeat-while loop** on page 63.  
+  <li>There is a typo in <strong>Chapter 4</strong>, <strong>Range Operators and Loops</strong>, under the topic <strong>The repeat-while loop</strong> on page <strong>63</strong>.  
 
 In the second last paragraph, the last line currently reads:  
 *"The loop is repeated until y contains 50, at which point **x** < 50 returns false and the loop stops."*  
